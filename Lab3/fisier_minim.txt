@@ -1,0 +1,8 @@
+Denumire: zahar, Pret: 1.5, Cantitate: 50, Data Expirare: 2024-02-25
+Denumire: faina, Pret: 2.3, Cantitate: 30, Data Expirare: 2023-11-30
+Denumire: lapte, Pret: 3.2, Cantitate: 20, Data Expirare: 2023-10-28
+Denumire: paine, Pret: 1.0, Cantitate: 10, Data Expirare: 2023-10-22
+Denumire: cafea, Pret: 15.0, Cantitate: 25, Data Expirare: 2025-03-15
+Denumire: ciocolata, Pret: 5.0, Cantitate: 40, Data Expirare: 2024-06-01
+Denumire: ulei, Pret: 8.0, Cantitate: 15, Data Expirare: 2024-05-10
+Denumire: unt, Pret: 4.5, Cantitate: 3, Data Expirare: 2023-10-23
