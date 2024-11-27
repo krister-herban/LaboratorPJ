@@ -1,0 +1,6 @@
+[
+  { "nume": "Ion Popescu", "postul": "Director General", "data_angajarii": "2023-04-15", "salariu": 5000 },
+  { "nume": "Maria Ionescu", "postul": "Sef departament", "data_angajarii": "2022-04-10", "salariu": 2400 },
+  { "nume": "Vasile Georgescu", "postul": "Analist", "data_angajarii": "2022-03-20", "salariu": 3000 },
+  { "nume": "Ana Marin", "postul": "Director adjunct", "data_angajarii": "2022-04-05", "salariu": 4000 }
+]
