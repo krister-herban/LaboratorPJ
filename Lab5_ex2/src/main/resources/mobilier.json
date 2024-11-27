@@ -1,0 +1,113 @@
+[
+  {
+    "nume": "Birou",
+    "placi": [
+      {
+        "descriere": "Blat",
+        "lungime": 1200,
+        "latime": 600,
+        "orientare": "LUNGIME",
+        "canturi": [true, true, false, false],
+        "nr_bucati": 1
+      },
+      {
+        "descriere": "Laterala stanga",
+        "lungime": 700,
+        "latime": 500,
+        "orientare": "LATIME",
+        "canturi": [true, false, true, false],
+        "nr_bucati": 1
+      },
+      {
+        "descriere": "Laterala dreapta",
+        "lungime": 700,
+        "latime": 500,
+        "orientare": "LATIME",
+        "canturi": [true, false, true, false],
+        "nr_bucati": 1
+      },
+      {
+        "descriere": "Polita",
+        "lungime": 1000,
+        "latime": 300,
+        "orientare": "ORICARE",
+        "canturi": [false, true, false, true],
+        "nr_bucati": 1
+      }
+    ]
+  },
+  {
+    "nume": "Dulap",
+    "placi": [
+      {
+        "descriere": "Usa stanga",
+        "lungime": 1500,
+        "latime": 400,
+        "orientare": "LUNGIME",
+        "canturi": [true, true, false, false],
+        "nr_bucati": 1
+      },
+      {
+        "descriere": "Usa dreapta",
+        "lungime": 1500,
+        "latime": 400,
+        "orientare": "LUNGIME",
+        "canturi": [true, true, false, false],
+        "nr_bucati": 1
+      },
+      {
+        "descriere": "Raft fix",
+        "lungime": 1000,
+        "latime": 500,
+        "orientare": "LATIME",
+        "canturi": [false, true, false, true],
+        "nr_bucati": 3
+      },
+      {
+        "descriere": "Lateral stanga",
+        "lungime": 1500,
+        "latime": 500,
+        "orientare": "LATIME",
+        "canturi": [true, false, true, false],
+        "nr_bucati": 1
+      },
+      {
+        "descriere": "Lateral dreapta",
+        "lungime": 1500,
+        "latime": 500,
+        "orientare": "LATIME",
+        "canturi": [true, false, true, false],
+        "nr_bucati": 1
+      }
+    ]
+  },
+  {
+    "nume": "Etajera",
+    "placi": [
+      {
+        "descriere": "Polita",
+        "lungime": 800,
+        "latime": 300,
+        "orientare": "ORICARE",
+        "canturi": [false, true, false, true],
+        "nr_bucati": 2
+      },
+      {
+        "descriere": "Lateral",
+        "lungime": 800,
+        "latime": 400,
+        "orientare": "LUNGIME",
+        "canturi": [true, false, true, false],
+        "nr_bucati": 2
+      },
+      {
+        "descriere": "Capac",
+        "lungime": 800,
+        "latime": 400,
+        "orientare": "ORICARE",
+        "canturi": [true, true, false, false],
+        "nr_bucati": 1
+      }
+    ]
+  }
+]
