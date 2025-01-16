@@ -35,7 +35,7 @@ public class EvenimentController {
         return ResponseEntity.ok(evenimentSaved);
     }
 
-    @PostMapping("/{valoare_id}")
+    @PutMapping("/{valoare_id}")
     public ResponseEntity<Eveniment> updateEveniment(@PathVariable Integer valoare_id, @RequestBody Eveniment eveniment1){
         Eveniment eveniment=evenimentRepository.findById(valoare_id).orElseThrow(()->new RuntimeException("Nu s-a gasit evenimentul"));
         eveniment.setDenumire(eveniment1.getDenumire());
